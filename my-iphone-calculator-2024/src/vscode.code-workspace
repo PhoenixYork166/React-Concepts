@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "vscode",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "basics-01-understanding-the-course-project-starting-code"
+	}
+}
