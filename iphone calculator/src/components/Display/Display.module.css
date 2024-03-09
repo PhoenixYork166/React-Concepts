@@ -1,0 +1,17 @@
+.displayBox {
+    border: 1px solid orange;
+    border-radius: 10px;
+    width: 90%;
+    height: 5rem;
+    font-size: 3.5625rem;
+    white-space: nowrap;
+    overflow: auto;
+    resize: none;
+    box-shadow: 10px 10px 10px #fff;
+    overflow-x: auto;
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    display: flex;
+    justify-content: flex-end;
+}

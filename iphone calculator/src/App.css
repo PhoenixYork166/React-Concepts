@@ -1,0 +1,26 @@
+.body {
+    box-sizing: border-box;
+    
+}
+
+.container {
+    height: 40vw;
+    width: 35vw;
+    position: absolute;
+    border: 1px transparent blueviolet;
+    left: 5%;
+    top: 10%;
+    box-shadow: 10px 10px 10px 10px rgba(228, 224, 8, 0.8);
+    border-radius: 20px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: repeat(5, 20%);
+    position: absolute;
+    left: 2%;
+    top: 29%;
+    height: 70%;
+    width: 100%;
+}

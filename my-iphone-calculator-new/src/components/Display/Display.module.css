@@ -1,0 +1,94 @@
+@media only screen and (min-width: 100px) {
+    .displayBox {
+        border: 1px solid orange;
+        border-radius: 10px;
+        width: 90%;
+        height: 5rem;
+        font-size: 3.5625rem;
+        white-space: nowrap;
+        resize: none;
+        box-shadow: 10px 10px 10px #fff;
+        overflow-x: scroll;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .displayBox {
+        border: 1px solid orange;
+        border-radius: 10px;
+        width: 90%;
+        height: 6rem;
+        font-size: 3.5625rem;
+        white-space: nowrap;
+        resize: none;
+        box-shadow: 10px 10px 10px #fff;
+        overflow-x: scroll;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    .displayBox {
+        border: 1px solid orange;
+        border-radius: 10px;
+        width: 90%;
+        height: 7rem;
+        font-size: 4.5625rem;
+        white-space: nowrap;
+        resize: none;
+        box-shadow: 10px 10px 10px #fff;
+        overflow-x: scroll;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .displayBox {
+        border: 1px solid orange;
+        border-radius: 10px;
+        width: 90%;
+        height: 8.5rem;
+        font-size: 5.5625rem;
+        white-space: nowrap;
+        resize: none;
+        box-shadow: 10px 10px 10px #fff;
+        overflow-x: scroll;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+@media only screen and (min-width: 820px) {
+    .displayBox {
+        border: 1px solid orange;
+        border-radius: 10px;
+        width: 90%;
+        height: 8.5rem;
+        font-size: 5.5625rem;
+        white-space: nowrap;
+        resize: none;
+        box-shadow: 10px 10px 10px #fff;
+        overflow-x: scroll;
+        position: absolute;
+        left: 5%;
+        top: 5%;
+        display: flex;
+        justify-content: flex-end;
+    }
+}

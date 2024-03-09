@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: "Open Sans";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+a {
+  padding: 5px;
+  width: 50px;
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}/*# sourceMappingURL=index.css.map */
